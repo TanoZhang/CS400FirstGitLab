@@ -1,3 +1,8 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Tano Zhang
+// Email: dzhang356@wisc.edu
+// Lecturer: Jiazheng Liu
+// Notes to Grader: All 9 test and P102SubmissionChecker passed!
 /*
  *	Color class
  */
